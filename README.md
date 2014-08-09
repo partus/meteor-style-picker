@@ -1,4 +1,4 @@
-stylesSelection
+style-picker
 ===============
 
 Dynamically change bootstrap them on the client (thembs from bootswatch.com).
