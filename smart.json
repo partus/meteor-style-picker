@@ -1,0 +1,8 @@
+{
+  "name": "bootswatch-dynamic-css",
+  "description": "Dynamically change from one of the bootswatch.com bootstrap3 themes on the client ",
+  "homepage": "https://github.com/partus/style-picker",
+  "author": "Partus <partus@mail.com",
+  "version": "0.1.0",
+  "git": "https://github.com/partus/style-picker.git"
+}
