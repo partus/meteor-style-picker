@@ -26,5 +26,5 @@ Installation
 ------------
 
 ```
-mrt add style-picker
+mrt add bootswatch-dynamic-css
 ```
